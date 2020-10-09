@@ -6,4 +6,4 @@
 it is ~10Mb
 ---
 it corrrectly works on firefox (tested). 
-not correctly on last chrome, but old version support it
+not correctly on last chrome(with off gpu-acceleration), but old version support it
